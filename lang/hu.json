@@ -1,0 +1,55 @@
+{
+  "APP_TITLE": "LaserBase Sketch",
+  "OPEN_HINT": "Nyiss meg egy képet a kezdéshez.",
+  "LOAD_IMAGE": "Kép betöltése",
+  "SAVE_IMAGE": "Mentés PNG",
+  "EXIT": "Kilépés",
+  "ABOUT": "Névjegy",
+
+  "GENERATE": "Rajz készítése",
+  "SETTINGS": "Rajz beállítása",
+  "STYLE": "Rajz stílus",
+  "EDIT": "Szerkesztés",
+  "VECTOR": "Vonal feldolgozás",
+
+  "MODEL": "Modell:",
+  "NONE": "Nincs",
+
+  "MODE_SOFT": "Finom rajz",
+  "MODE_STRONG": "Kontúr rajz",
+  "MODE_PORTRAIT": "Portré",
+  "MODE_ARCHITECTURE": "Épület",
+  "MODE_VEHICLE": "Jármű",
+  "MODE_ENGRAVE": "Gravírozás",
+
+  "DETAIL": "Részletesség",
+  "LINE_THICKNESS": "Vonalvastagság",
+  "BG_CLEAN": "Háttér tisztítás",
+  "ILLUSTRATION": "Illusztráció",
+  "COMIC": "Képregény kontúr",
+  "LOGO": "Sablon / Logó",
+  "MINIMAL": "Vonal minimum",
+
+  "CONTINUITY": "Folytonosság",
+  "SMOOTHNESS": "Simaság",
+  "RECONSTRUCT": "Vonalak újrarajzolása",
+  "ILLUSTRATION_MODE": "Illusztráció mód",
+
+  "ERASER": "Radír",
+  "DENOISE": "Zaj eltávolítása",
+  "SIMPLIFY": "Kontúr egyszerűsítése",
+
+  "LANGUAGE": "Nyelv",
+  "HUNGARIAN": "Magyar",
+  "ENGLISH": "Angol",
+  "OK": "OK",
+
+  "OPEN_IMAGE_TITLE": "Kép megnyitása",
+  "SAVE_IMAGE_TITLE": "Kép mentése",
+  "ERROR": "Hiba",
+  "ERROR_LOAD": "Nem sikerült betölteni a képet.",
+  "ABOUT_HTML": "<b>LaserBase Sketch</b><br>Vonalrajz generátor lézergravírozáshoz<br><br>Készítette:   Fitos Zoltán<br>2026<br><br>Ingyenes program — ha segített,<br>meghívhatsz egy kávéra ☕",
+
+  "ABOUT_LINK": "Támogatás (PayPal)"
+
+}
