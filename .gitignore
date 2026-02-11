@@ -1,0 +1,36 @@
+# ---- Python ----
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ---- Build (PyInstaller) ----
+build/
+dist/
+*.spec
+
+# ---- Executables / releases ----
+*.exe
+*.zip
+*.7z
+
+# ---- Runtime files ----
+config.json
+*.log
+
+# ---- OS ----
+.DS_Store
+Thumbs.db
+
+# ---- IDE ----
+.vscode/
+.idea/
+
+# ---- Temporary images ----
+temp/
+cache/
+
+# ---- Optional: large AI models (ha később nagy lesz)
+# *.onnx
+# *.pth
+# *.pt
