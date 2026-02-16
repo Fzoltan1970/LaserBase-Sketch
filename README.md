@@ -4,11 +4,14 @@ Photo → engraving-ready line image generator
 Fotó → gravírozható vonalas kép előállító
 
 
-![Photo](images/photo.jpg)
+### Result
+![engrave](images/engrave.jpg)
 
-![Photo](images/output.jpg)
+### Generated drawing
+![output](images/output.jpg)
 
-![Photo](images/engrave.jpg)
+### Source photo
+![photo](images/photo.jpg)
 
 
 ---
